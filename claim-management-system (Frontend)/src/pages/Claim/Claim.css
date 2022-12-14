@@ -1,0 +1,7 @@
+.container {
+  position: absolute;
+  left: 250px;
+  width: 1284px;
+  top: 0;
+  height: calc(100vh - 4rem);
+}

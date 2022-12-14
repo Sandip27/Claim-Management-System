@@ -1,0 +1,49 @@
+.container {
+  position: absolute;
+  left: 250px;
+  width: 1284px;
+  top: 0;
+  height: calc(100vh - 4rem);
+  margin-top: 0;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.registration {
+  height: min-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 12px;
+  width: 100%;
+}
+
+.registration h5 {
+  margin-bottom: 25px;
+}
+
+.registration form {
+  font-size: 1rem;
+  width: 40%;
+}
+
+.registration form .form-group {
+  margin-bottom: 12px;
+}
+
+.registration form button {
+  margin-top: 15px;
+}
+
+.all-members {
+  margin-top: 20px;
+}
+
+.all-members h4 {
+  text-align: center;
+}

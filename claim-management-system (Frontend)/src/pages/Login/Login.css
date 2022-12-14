@@ -1,0 +1,11 @@
+.login {
+  background-image: url("https://webgradients.com/public/webgradients_png/008%20Rainy%20Ashville.png");
+  margin: 0;
+  left: 250px;
+  width: 1300px;
+  border-radius: 0%;
+}
+
+.signUp {
+  cursor: pointer;
+}

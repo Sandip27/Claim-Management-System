@@ -1,0 +1,10 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.main {
+  position: absolute;
+  width: 100%;
+  top: 4rem;
+  z-index: 1;
+}
