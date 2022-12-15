@@ -5,4 +5,4 @@ This project is aimed at developing an Insurance Claim Management System. This i
 ### Technologies Used:
 1. Frontend (React + Bootstrap 5)
 2. Backend (Spring Boot)
-3. Database (MySql)
+3. Database (MySQL)
